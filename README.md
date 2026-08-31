@@ -1,7 +1,7 @@
 # TED 01 - Desempenho Acadêmico
 
 ## Erik Alves de Sousa - 26.1.19172
-## Fernando Lemke da Silveir - 26.1.18620
+## Fernando Lemke da Silveira - 26.1.18620
 
 ## Cenário
 Cenário 02 - Desempenho Acadêmico
