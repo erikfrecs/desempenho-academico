@@ -1,0 +1,125 @@
+id_registro,aluno,disciplina,nota,frequencia,atividades_realizadas
+001,Aluno 16,Algoritmos,5.0,69,7
+002,Aluno 05,Engenharia de Software,4.4,91,9
+003,Aluno 08,Algoritmos,6.0,63,4
+004,Aluno 08,Engenharia de Software,5.4,73,5
+005,Aluno 03,Algoritmos,8.2,66,9
+006,Aluno 25,Algoritmos,6.9,80,4
+007,Aluno 23,Python,9.1,71,8
+008,Aluno 03,Algoritmos,4.9,65,4
+009,Aluno 14,Engenharia de Software,5.7,72,3
+010,Aluno 25,Banco de Dados,9.7,79,7
+011,Aluno 11,Algoritmos,6.0,68,9
+012,Aluno 08,Engenharia de Software,6.3,62,3
+013,Aluno 16,Algoritmos,7.5,61,5
+014,Aluno 22,Algoritmos,8.4,86,7
+015,Aluno 03,Banco de Dados,4.0,91,4
+016,Aluno 18,Algoritmos,9.4,98,10
+017,Aluno 29,Redes,6.6,66,5
+018,Aluno 22,Engenharia de Software,9.4,81,2
+019,Aluno 16,Engenharia de Software,6.2,81,4
+020,Aluno 16,Engenharia de Software,6.1,85,2
+021,Aluno 23,Algoritmos,5.3,95,9
+022,Aluno 13,Banco de Dados,9.8,80,2
+023,Aluno 12,Banco de Dados,7.8,95,3
+024,Aluno 04,Python,8.3,86,4
+025,Aluno 12,Banco de Dados,6.4,90,10
+026,Aluno 12,Redes,7.5,63,7
+027,Aluno 23,Algoritmos,6.1,60,6
+028,Aluno 10,Algoritmos,8.6,86,4
+029,Aluno 02,Banco de Dados,6.8,74,8
+030,Aluno 06,Redes,7.1,67,2
+031,Aluno 03,Redes,6.2,89,3
+032,Aluno 09,Python,9.0,98,2
+033,Aluno 02,Banco de Dados,6.5,67,9
+034,Aluno 21,Engenharia de Software,8.2,62,10
+035,Aluno 24,Python,5.2,96,9
+036,Aluno 05,Redes,7.3,80,2
+037,Aluno 05,Redes,8.1,60,10
+038,Aluno 25,Engenharia de Software,6.3,93,7
+039,Aluno 19,Python,7.4,84,10
+040,Aluno 17,Python,8.0,69,4
+041,Aluno 22,Redes,7.1,93,3
+042,Aluno 15,Engenharia de Software,9.3,68,9
+043,Aluno 21,Python,6.7,70,8
+044,Aluno 13,Python,7.4,83,5
+045,Aluno 12,Banco de Dados,7.9,69,2
+046,Aluno 05,Algoritmos,4.6,62,4
+047,Aluno 07,Algoritmos,5.8,66,9
+048,Aluno 08,Engenharia de Software,4.8,75,7
+049,Aluno 08,Algoritmos,6.9,100,7
+050,Aluno 06,Python,5.2,93,6
+051,Aluno 04,Engenharia de Software,8.6,92,6
+052,Aluno 29,Redes,9.6,65,8
+053,Aluno 25,Python,4.5,74,10
+054,Aluno 27,Redes,8.2,84,7
+055,Aluno 02,Engenharia de Software,4.7,61,8
+056,Aluno 21,Engenharia de Software,8.0,79,7
+057,Aluno 22,Engenharia de Software,6.1,83,10
+058,Aluno 26,Python,7.7,64,8
+059,Aluno 02,Redes,8.5,85,3
+060,Aluno 03,Banco de Dados,6.0,83,2
+061,Aluno 24,Algoritmos,5.5,67,9
+062,Aluno 21,Engenharia de Software,7.5,78,9
+063,Aluno 19,Algoritmos,5.7,89,2
+064,Aluno 04,Engenharia de Software,9.7,71,4
+065,Aluno 30,Python,8.1,68,9
+066,Aluno 20,Banco de Dados,4.6,73,7
+067,Aluno 12,Python,5.5,60,9
+068,Aluno 01,Algoritmos,8.0,96,8
+069,Aluno 23,Python,6.2,95,3
+070,Aluno 16,Redes,5.6,93,8
+071,Aluno 09,Banco de Dados,8.1,69,4
+072,Aluno 12,Engenharia de Software,7.0,92,4
+073,Aluno 29,Engenharia de Software,9.1,87,9
+074,Aluno 24,Engenharia de Software,5.1,91,7
+075,Aluno 23,Redes,5.6,99,8
+076,Aluno 21,Redes,7.0,75,10
+077,Aluno 09,Redes,4.8,98,10
+078,Aluno 22,Python,8.3,65,4
+079,Aluno 13,Python,4.0,75,4
+080,Aluno 24,Python,8.8,85,10
+081,Aluno 02,Python,8.3,85,8
+082,Aluno 04,Banco de Dados,8.3,65,3
+083,Aluno 24,Algoritmos,5.8,90,8
+084,Aluno 11,Algoritmos,8.7,83,4
+085,Aluno 10,Banco de Dados,7.7,63,7
+086,Aluno 29,Python,8.7,81,2
+087,Aluno 25,Banco de Dados,8.2,82,4
+088,Aluno 07,Redes,10.0,64,2
+089,Aluno 17,Engenharia de Software,5.2,73,10
+090,Aluno 15,Python,9.3,68,4
+091,Aluno 30,Algoritmos,7.5,82,2
+092,Aluno 13,Engenharia de Software,8.6,86,10
+093,Aluno 15,Redes,8.2,87,7
+094,Aluno 08,Engenharia de Software,6.4,91,2
+095,Aluno 02,Redes,7.1,63,5
+096,Aluno 14,Algoritmos,8.0,100,3
+097,Aluno 18,Banco de Dados,6.7,88,7
+098,Aluno 21,Redes,4.8,90,9
+099,Aluno 06,Python,7.8,82,5
+100,Aluno 28,Python,8.9,93,6
+101,Aluno 04,Redes,7.8,61,2
+102,Aluno 22,Python,9.1,90,5
+103,Aluno 07,Banco de Dados,5.1,60,6
+104,Aluno 06,Engenharia de Software,5.8,87,5
+105,Aluno 15,Banco de Dados,8.2,79,10
+106,Aluno 20,Engenharia de Software,8.5,84,7
+107,Aluno 03,Banco de Dados,7.1,96,3
+108,Aluno 21,Python,6.6,64,4
+109,Aluno 10,Banco de Dados,5.8,87,9
+110,Aluno 02,Python,7.2,82,2
+111,Aluno 14,Algoritmos,7.0,83,4
+112,Aluno 25,Python,8.0,72,8
+113,Aluno 10,Algoritmos,6.2,67,3
+114,Aluno 11,Engenharia de Software,5.4,73,8
+115,Aluno 04,Algoritmos,8.8,88,9
+116,Aluno 14,Algoritmos,9.2,65,9
+117,Aluno 02,Python,7.1,85,2
+118,Aluno 30,Engenharia de Software,7.9,66,9
+119,Aluno 14,Algoritmos,4.1,96,2
+120,Aluno 24,Redes,4.2,88,2
+021,Aluno 23,Algoritmos,5.3,95,9
+022,Aluno 13,Banco de Dados,9.8,80,2
+023,Aluno 12,Banco de Dados,7.8,95,3
+024,Aluno 04,Python,8.3,86,4
