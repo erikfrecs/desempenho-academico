@@ -1,37 +1,27 @@
-# TED 01 — Desempenho Acadêmico
+# TED 01 - Desempenho Acadêmico
 
-**Cenário 02**
+## Erik Alves de Sousa - 26.1.19172
+## Fernando Lemke da Silveir - 26.1.18620
 
-## Situação
+## Cenário
+Cenário 02 - Desempenho Acadêmico
 
-Analise registros acadêmicos de estudantes, disciplinas, notas, frequência e atividades realizadas.
+## Descrição da solução
+Foi desenvolvido um programa em Python para organizar e analisar dados acadêmicos de estudantes, considerando notas, frequência, atividades e matrículas.
 
-Os arquivos da pasta `dados/` representam os dados brutos que deverão ser utilizados na solução. Os dados contêm registros repetidos e informações que deverão ser organizadas e relacionadas pelo programa.
+## Estruturas utilizadas
+Foram utilizadas listas, tuplas, dicionários, estruturas aninhadas e conjuntos (`set`).
 
-## Análises obrigatórias do cenário
+Também foram utilizadas List Comprehension, Dict Comprehension e funções para organizar o programa.
 
-- Calcular a média por disciplina e identificar os alunos com melhor desempenho.
-- Encontrar alunos abaixo dos critérios definidos de nota e frequência.
-- Usar conjuntos para identificar alunos matriculados em duas ou mais disciplinas e comparar os grupos de alunos entre duas disciplinas.
+## Análises realizadas
+- Média por disciplina e melhor aluno.
+- Alunos abaixo dos critérios de nota e frequência.
+- Alunos matriculados em duas ou mais disciplinas.
+- Comparação entre alunos de Algoritmos e Python usando conjuntos.
 
-## Requisitos obrigatórios
+## Como executar
+Com o Python instalado, abra o terminal na pasta do projeto e execute:
 
-A solução da dupla deverá:
-1. Modelar os dados utilizando listas, tuplas, dicionários e estruturas aninhadas.
-2. Utilizar `set` para eliminar duplicidades e realizar pelo menos uma operação de união, interseção ou diferença.
-3. Utilizar pelo menos duas List Comprehensions para filtragem ou transformação.
-4. Utilizar pelo menos uma Dict Comprehension.
-5. Criar pelo menos 3 funções.
-6. Implementar pelo menos 3 consultas/análises diferentes sobre os dados.
-7. Apresentar os resultados de forma organizada no terminal.
-8. Explicar no README as principais estruturas utilizadas e a justificativa das escolhas.
-
-## Entrega
-
-O código deverá ser desenvolvido no repositório GitHub da dupla. O repositório deverá conter:
-- `README.md`
-- pasta `dados/` com os arquivos fornecidos
-- pasta `src/` com o código Python
-
-Não altere os dados originais fornecidos. Caso precise criar dados derivados, salve-os separadamente.
-
+```bash
+python cenarios/02_desempenho_academico/src/main.py
